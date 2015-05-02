@@ -19,7 +19,7 @@
 #####HTTPS Clone Link: https://github.com/coweaver/Cooper_Eric.git
 =====
 ##AP Computer Science
-###API: Football Playbook
+###Football Playbook
 #####Team Members: Eric Morgenstern, Lev Akabas
 <p>An interactive football playbook where one can make plays and see how they work.
 #####HTTPS Clone Link: https://github.com/ericbm2/Per7-Akabas-Morgenstern-Playbook
