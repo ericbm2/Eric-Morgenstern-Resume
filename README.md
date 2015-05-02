@@ -1,5 +1,4 @@
 #Eric Morgenstern
-=====
 ##Software Development
 ###Qamba
 #####Team Members: Eric Morgenstern, Mark Norwich, Andreas Wang, Cooper Weaver
